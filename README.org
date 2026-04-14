@@ -1,0 +1,9 @@
+* roboter
+
+a small library for parsing RFC 9309 robots.txt files.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://codeberg.org/Andrei/roboter.git               |
+| commit  | 0000000                                                    |
+| systems | roboter                                                   |
+|---------+------------------------------------------------------------|
