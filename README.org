@@ -7,4 +7,4 @@ a small library for parsing RFC 9309 robots.txt files.
 | commit  | 51a0fa4                                                    |
 | systems | roboter                                                   |
 |---------+------------------------------------------------------------|
- 
+  
