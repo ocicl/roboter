@@ -4,7 +4,7 @@ a small library for parsing RFC 9309 robots.txt files.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://codeberg.org/Andrei/roboter.git               |
-| commit  | 397fb35                                                    |
+| commit  | ec9fd49                                                    |
 | systems | roboter                                                   |
 |---------+------------------------------------------------------------|
   
